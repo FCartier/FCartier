@@ -1,6 +1,6 @@
 Hi there 👋 I'm Florian Cartier! I work as an Engineering Manager at Hotjar and as co-founder of Carbon Crushers.
 
-## About Me
+## About Me 🌱
 In the tech world, I’m juggling engineering at Hotjar by day and saving the planet with CarbonCrushers by night. As an Engineering Manager, I lead with empathy, turning teamwork into innovation. On the side, I’m co-founding a game studio that blends fun with environmental action. From startup hustles at Sloowy to sustainable gaming, I’m all about pushing the boundaries of what’s possible. Always up for new ideas and collaborations—let’s code, chat, and save the world together!
 
 ## Technical Skills 🔧
@@ -25,17 +25,8 @@ In the tech world, I’m juggling engineering at Hotjar by day and saving the pl
 - **Leadership Growth**: Aiming to enhance my leadership skills, guiding teams to success while nurturing an environment of innovation and collaboration.
 - **Passion-Driven Projects**: Dedicated to working on projects that align with my passions, especially those at the intersection of technology and sustainability.
 - **Continuous Learning**: Committed to evolving as a professional by staying curious, embracing new challenges, and keeping up with the latest advancements in tech. 📈
-<!--
-**FCartier/FCartier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Connect with Me 📬
+🔗 [LinkedIn](https://www.linkedin.com/in/floriancartier/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Excited to collaborate on tech projects that make a positive impact. Let’s join forces and create something meaningful! 🌍
