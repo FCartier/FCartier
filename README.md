@@ -9,21 +9,22 @@ In the tech world, I’m juggling engineering at Hotjar by day and saving the pl
 - **Tools & Platforms:** Github, Gitlab, Azure, AWS, Vercel, Netflify, iOS, Android
 - **Data:** MixPanel, Heap, Google Analytics, Firebase
 
-## Leadership Skills 🧠 
-- **Empathy-Driven Management:** Leading teams with a focus on individual well-being and professional growth.
-- **Strategic Vision:** Guiding projects with a clear understanding of both immediate goals and long-term impacts.
-- **Team Building:** Fostering a collaborative, inclusive environment where innovation thrives.
-- **Mentorship:** Supporting team members’ career development through guidance and knowledge sharing.
-- **Conflict Resolution:** Navigating challenges and disagreements to maintain team harmony and productivity.
-- **Effective Communication:** Ensuring transparency and clear communication across all levels of the team.
-- **Adaptability:** Leading through change with flexibility and resilience.
-- **Decision-Making:** Balancing technical and business considerations to make informed, impactful choices.
-- **Innovation Encouragement:** Promoting a culture where new ideas are welcomed and explored.
+## Leadership & Advocacy 🌟
+- **Empathy-Driven Leadership**: As Engineering Manager at Hotjar, I prioritize well-being and growth, fostering an inclusive and supportive team culture that drives innovation.
+- **Strategic Vision:** Co-founded CarbonCrushers, where I blend my passion for gaming with environmental advocacy, creating a unique space where technology meets sustainability.
+- **Mentorship**: At Hotjar and Xpertai, I mentor teams, guiding their professional development and ensuring they thrive both personally and professionally.
+- **Inclusive Collaboration**: From leading the Activation Squad at Hotjar to managing global teams at Xpertai, I cultivate environments where every voice is heard, and teamwork flourishes.
+- S**ustainability Advocate**: Through CarbonCrushers, I turn gaming into a force for environmental good, driving initiatives like tree planting and carbon offsetting.
 
 ## Key Projects 📚
 - [Stock Trader](https://github.com/FCartier/stock-trader-v2): The very first application I contributed to when starting my journey. It's a TypeScript application that allows you to buy / sell stocks in real-time, following the real changes of the financial markets.
 - [Sloowy React-Native Application](https://github.com/Sloowy-App/react-native-app): For this project, I built from scratch a hybrid app for the iOS and Android markets. The app included authentication, real-time connection with physical lockers, allowing users to rent beach products with their phones.
 - [Carbon Crushers](https://github.com/CarbonCrushers): I am currently working on a MVP to bring some initial profits to the Carbon Crushers organization.
+
+## Professional Goals 🚀
+- **Leadership Growth**: Aiming to enhance my leadership skills, guiding teams to success while nurturing an environment of innovation and collaboration.
+- **Passion-Driven Projects**: Dedicated to working on projects that align with my passions, especially those at the intersection of technology and sustainability.
+- **Continuous Learning**: Committed to evolving as a professional by staying curious, embracing new challenges, and keeping up with the latest advancements in tech. 📈
 <!--
 **FCartier/FCartier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
