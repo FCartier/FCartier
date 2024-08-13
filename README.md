@@ -1,6 +1,6 @@
 Hi there 👋 I'm Florian Cartier! I work as an Engineering Manager at Hotjar by ContentSquare and as co-founder / principal engineer for Carbon Crushers.
 
-# About Me
+## About Me
 In the tech world, I’m juggling engineering at Hotjar by day and saving the planet with CarbonCrushers by night. As an Engineering Manager, I lead with empathy, turning teamwork into innovation. On the side, I’m co-founding a game studio that blends fun with environmental action. From startup hustles at Sloowy to sustainable gaming, I’m all about pushing the boundaries of what’s possible. Always up for new ideas and collaborations—let’s code, chat, and save the world together!
 
 <!--
